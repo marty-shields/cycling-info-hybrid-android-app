@@ -1,0 +1,37 @@
+<!-- Views -->
+<div class="views">
+  <!-- Your main view, should have "view-main" class -->
+  <div class="view view-main">
+    <!-- Pages container, because we use fixed navbar and toolbar, it has additional appropriate classes-->
+    <div class="pages navbar-fixed toolbar-fixed">
+      <!-- Page, "data-page" contains page name -->
+      <div data-page="cycleparts" class="page">
+
+        <!-- Top Navbar. In Material theme it should be inside of the page-->
+        <div class="navbar">
+          <div class="navbar-inner">
+            <div class="center">Cycling Info Centre</div>
+          </div>
+        </div>
+
+        <!-- Bottom Toolbar. In Material theme it should be inside of the page-->
+        <div class="toolbar">
+          <div class="toolbar-inner">
+            <!-- Toolbar links -->
+            <a href="#" class="back link"><i class="icon icon-back"></i><span>Back</span></a>
+            <a href="index.html" class="link">Main Menu</a>
+          </div>
+        </div>
+        <!-- Scrollable page content -->
+        <div class="page-content">
+          <h1>{{Part}}</h1>
+          <h2>{{Title}}</h2>
+          <img src="img/{{Img}}"/>
+          <p>{{Detail}}</p>
+          <br>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>

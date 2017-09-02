@@ -1,0 +1,58 @@
+[
+  {
+    "Id" : 1,
+    "Part" : "Tyres",
+    "Title" : "Repair Punctured Inner Tube",
+    "Img" : "puncture.jpg",
+    "Detail" : "The first part is getting the punctured tube out of the tyre. The easiest way to do this is with tyre levers although you can occasionally get some tyres off just by using your hands if the fit is particularly good.<br><br>In your puncture repair kit, there should be a small piece of sandpaper. Use it to lightly rub around the damaged tube in the area of the hole to provide a better surface for the rubber solution to grip.<br><br>Next, apply the rubber solution to the tube. The reason we call it rubber solution rather than glue is because if you treat it like conventional glue, you’ll have no joy at all trying to fix the puncture. Basically, you need to apply enough to cover an area the size of the patch and you don’t need a massive amount of solution. Once applied – and this part is vital – leave it for around 30-60 seconds. You want the solution to go tacky, runny is no good at all, and you don’t want to apply the patch until the solution is just the right consistency.<br><br>Next, carefully apply the patch to the tube. Sure, it’s not exactly surgery, but you don’t want to mess it up and leave part not stuck down properly because that means it won’t seal the tube and you’ll have to start all over again. I usually hold the patch against the tube for a good 30-60 seconds to make sure the whole thing is securely stuck down."
+  },
+  {
+    "Id" : 2,
+    "Part" : "Brakes",
+    "Title" : "Replacing Brake Pads",
+    "Img" : "brakepads.jpg",
+    "Detail" : "With the wheel removed to make life easier, unscrew the pad from the brake shoe it is housed in – if the replacement pads come with a new grub screw, use it rather than just re-using the old one.<br><br>Removing the pad is straight-forward, though a flat-bladed screwdriver may be required in some cases to offer some gentle persuasion.<br><br>Paying attention to orientation – the open end should face the rear of the bike, and the pads will be typically marked L or R according to which side of the caliper they should be installed in – replace the pads and screw them back in.<br><br>The likelihood is you will need to reduce the cable tension – turn the caliper’s barrel adjuster clockwise – for the new pads, but otherwise, after a simple check of the alignment and function, you’re good to go.<br><br>Some points to note – carbon rims require specific pads, as do some brands (e.g. Mavic rims with Exalith coating); SRAM and Shimano pads are interchangeable but Campagnolo’s are specific to the caliper. It’s also worth noting that Campag calipers don’t use a small screw to hold the pads in place, instead using a metal spring clip."
+  },
+  {
+    "Id" : 3,
+    "Part" : "Handlebars",
+    "Title" : "Wrapping Handlebar Tape",
+    "Img" : "handlebar-tape.jpg",
+    "Detail" : "To start, you have several options – one is to insert an inch or two into the bar, before winding around the bar, while other people prefer to start with a centimetre or two of tape overlapping the end.<br><br>As for the wrapping, uniformity is key – you can wrap ‘inwards’ towards the frame or ‘outwards’ away from it, but make sure it is the same on both sides. Keeping the overlap – approximately half the width of the tape according to Ride’s Jon Hayes – consistent is also vital.<br><br>Just before finishing, standing in front of the bike and pulling towards you, cut the tape in half (on the side closest to the stem), to ensure the width is narrow enough to be concealed by finishing tape.<br><br>Finishing tape or, if you prefer, electrical tape should be used to finish the wrap – just a couple of revolutions will do, again in the same direction – before the bar end plug is applied."
+  },
+  {
+    "Id" : 4,
+    "Part" : "Spoke",
+    "Title" : "Replace A Broken Spoke",
+    "Img" : "spoke.jpg",
+    "Detail" : "You will need a cassette removal tool, a wrench, a chain whip and a spoke key in that instance but with the right tools, replacement is relatively straightforward.<br><br>Remove the cassette and the broken spoke first, pulling the latter from the hub flange, and then remove the tyre, as the tyre can offer purchase when removing the cassette.<br><br>Next remove the rim tape and the nipple of the broken spoke, taking extra care to ensure the nipple does not fall into the rim as it can be a nightmare to get out.<br><br>Before replacing the spoke pay attention to the orientation and lacing of the unbroken spokes and follow the pattern, threading the spoke through the hub flange, feeding it through the rim and dropping the nipple over it – again taking care to stop it falling inside the rim.<br><br>A screwdriver can be used to tighten the nipple, though some may prefer a nipple driver – particularly if you have  more than just one to replace.<br><br>Tighten the spoke – theoretically to the tension of the broken one – and check the trueness of the wheel by placing it in the bike (it should fit properly between the brake pads, without rubbing, if you have done it correctly) and then, if you are satisfied, replace the rim tape, tyre and – if it was the rear wheel – the cassette."
+  },
+  {
+    "Id" : 5,
+    "Part" : "Chain",
+    "Title" : "Replacing A Chain",
+    "Img" : "spoke.jpg",
+    "Detail" : "So what exactly are you looking for when you inspect a chain, and how should you do so? The most accurate way is with a chain checker tool, available from many brands, but you can also save the expense by checking manually. Lift the chain from a section of the chainring, and examine how many teeth it exposes – three or four suggests excessive wear.<br><br>Alternatively, remove the chain completely – shift it to the inner chainring and the smaller sprocket first to make life easier – and see how much flex it offers by trying to unite the two ends with the chain laying on the floor in the same orientation that it would sit on the bike. The closer you get it to being a complete full circle (the more side deflection that’s possible) the more worn it is.<br><br>The idiosyncrasies of each brand – SRAM, Shimano and Campagnolo – means replacing each chain can require a different technique.<br><br>For the most part, chains are interchangeable between brands, but never speeds – ten-speed is ten-speed."
+  },
+  {
+    "Id" : 6,
+    "Part" : "Derailleurs",
+    "Title" : "Adjust Derailleurs",
+    "Img" : "derailleurs.jpg",
+    "Detail" : "Starting with the rear, it is – usually – equipped with a series of simple mechanisms to adjust its travel and the tension of the cable controlling it.<br><br>Among these are the limiter screws, marked H and L (high and low), and small adjustments are the way forward (half or quarter turns) if you want to avoid causing yourself more bother.<br><br>The ‘B tension’ (or angle adjustment) screw is the next thing to check – particularly if you have installed a larger cassette for, say, a mountainous sportive.<br><br>The B-tension screw should be adjusted, by screwing clockwise, to ensure the top jockey wheel is positioned close to the cassette – helping to ensure a crisp shift.<br><br>At the front, two limiter screws, the barrel adjuster and the height adjustment between the derailleur and the top of the chainrings can all be addressed.<br><br>The derailleur should be sat just a couple of millimetres above the chainring, and should be parallel with the chainrings.<br><br>The inner limiter screw controls shifting from the outer chainring to the inner, and should be turned so the chain is afforded a small gap to the inside plate of the front derailleur’s cage – too large a gap can throw it off, too small will rub.<br><br>The outer limiter screw, meanwhile, should be adjusted with the tension of the cable (using the barrel adjuster) to move the derailleur outwards and away from the chain – micro-adjustment is key if you want to achieve the perfect balance."
+  },
+  {
+    "Id" : 7,
+    "Part" : "Pedals",
+    "Title" : "Remove Pedals",
+    "Img" : "pedals.jpg",
+    "Detail" : "Exactly how you take them off will depend on what type of pedals you’re running. If you use Shimano, Look, Time, Speedplay or, to be honest, most brands, what you’ll need is an 8mm Allen key (in certain cases you might need a 6mm version instead). If you’re using flat pedals then a 15mm pedal spanner is your friend.<br><br>There is a degree of crossover between the two in that some types of pedals (Speedplay being an example) can be removed using either an allen key or a pedal spanner. But be aware other brands (Shimano, for example) might look like they’ll accept a pedal spanner, but what that actually does is remove the pedal body from the axle which is definitely not what you’re going for.<br><br>So, on to the practicalities. The first thing to remember is the pedals are opposite threaded. I know we mentioned that earlier but it’s easy to forget, especially if you’re in a rush. So remember the left pedal undoes clockwise, and the right anticlockwise.<br><br>There’s a chance you might find the pedals require more persuasion than simply trying to turn the Allen key/spanner, as they’re quite tight. The best way to get around this is to tap the end of the allen key with either your palm or a rubber ended mallet. I tend to start with my hand, and only turn to something more industrial as a last resort. The beauty of a pedal spanner is they tend to be quite long, meaning you can get a lot more leverage than with a standard length allen key."
+  },
+  {
+    "Id" : 8,
+    "Part" : "Seats",
+    "Title" : "Prevent Seizure Of Seatposts",
+    "Img" : "seat.jpg",
+    "Detail" : "Periodically removing the seatpost from the frame – ideally, every time you wash the bike – will help to prevent it from becoming seized.<br><br>If the seatpost isn’t stuck, removing it is as simple as selecting a correctly-sized Allen key. If it is stuck, however, more severe methods are required, and typically the services of a professional mechanic.<br><br>Better quality carbon frames can have a very smooth finish on the inside of the seat-tube, he says, making the use of grip paste important when using a carbon post.<br><br>Carbon and aluminium can create a chemical reaction, and that the lacquer on many carbon seatposts can break down over time, creating a glue-like substance."
+  }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        id          = "com.martin.bikeinfo"
+        versionCode = "1"
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Cycling Information</name>
+
+    <description>
+        An application for cyclists to record safety checks and get information about bike parts.
+    </description>
+
+    <author email="bg47hb@student.sunderland.ac.uk">
+        Martin Shields
+    </author>
+
+    <platform name="android">
+      <preference name="orientation" value="portrait" />
+
+      <icon src="/img/icon/mdpi.png" platform="android" qualifier="mdpi" />
+      <icon src="/img/icon/hdpi.png" platform="android" qualifier="hdpi" />
+      <icon src="/img/icon/xhdpi.png" platform="android" qualifier="xhdpi" />
+      <icon src="/img/icon/xxhdpi.png" platform="android" qualifier="xxhdpi" />
+      <icon src="/img/icon/xxxhdpi.png" platform="android" qualifier="xxxhdpi" />
+  </platform>
+
+  <!--
+ If you do not want any permissions to be added to your app, add the
+ following tag to your config.xml; you will still have the INTERNET
+ permission on your app, which PhoneGap requires.
+-->
+<preference name="permissions" value="none"/>
+
+</widget>

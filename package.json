@@ -1,0 +1,17 @@
+{
+  "name": "bike-info",
+  "version": "1.0.0",
+  "description": "application to see infomation about bikes and also safety checks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Shields",
+  "license": "ISC",
+  "dependencies": {
+    "framework7": "^1.4.2"
+  },
+  "devDependencies": {
+    "qunitjs": "^1.23.1"
+  }
+}

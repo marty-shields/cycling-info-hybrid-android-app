@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Required meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- Color theme for statusbar -->
+    <meta name="theme-color" content="#2196f3">
+    <!-- Your app title -->
+    <title>Cycling Maintainance and Information</title>
+    <!-- Path to Framework7 Library CSS, Material Theme -->
+    <link rel="stylesheet" href="node_modules/framework7/dist/css/framework7.material.min.css">
+    <!-- Path to Framework7 color related styles, Material Theme -->
+    <link rel="stylesheet" href="node_modules/framework7/dist/css/framework7.material.colors.min.css">
+    <!--my own css style sheets-->
+    <link rel="stylesheet" href="css/my-app.css">
+  </head>
+  <body class="theme-teal">
+    <!-- Views -->
+    <div class="views">
+      <!-- Your main view, should have "view-main" class -->
+      <div class="view view-main">
+        <!-- Pages container, because we use fixed navbar and toolbar, it has additional appropriate classes-->
+        <div class="pages navbar-fixed">
+          <!-- Page, "data-page" contains page name -->
+          <div data-page="index" class="page">
+            <!-- Top Navbar. In Material theme it should be inside of the page-->
+            <div class="navbar">
+              <div class="navbar-inner">
+                <div class="center">Cycling Info Centre</div>
+              </div>
+            </div>
+
+            <!-- Scrollable page content -->
+            <div class="page-content">
+              <h1>Main Menu</h1>
+              <img src="img/bike.jpg" />
+              <!--Menu Links-->
+              <div class="list-block">
+                <ul>
+                  <li>
+                    <a href="about.html" class="item-link item-content">
+                      <div class="item-inner">
+                        <div class="item-title">About App</div>
+                      </div>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="cyc-parts-info.html" data-context-name="cycleparts" class="item-link item-content">
+                      <div class="item-inner">
+                        <div class="item-title">Cycling Parts Information</div>
+                      </div>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="maintenance.html" class="item-link item-content">
+                      <div class="item-inner">
+                        <div class="item-title">Cycling Maintainence Recorder</div>
+                      </div>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Path to Framework7 Library JS-->
+    <script type="text/javascript" src="node_modules/framework7/dist/js/framework7.min.js"></script>
+    <!-- Path to your app js-->
+    <script type="text/javascript" src="js/my-app.js"></script>
+    <!-- Path to custom maintenance js -->
+    <script type="text/javascript" src="js/maintenance.js"></script>
+  </body>
+</html>
